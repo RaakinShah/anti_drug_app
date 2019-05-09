@@ -1,0 +1,84 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ReHapp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Disclaimer</string>
+    <string name="title_activity_rehab_centers">Rehab Centers</string>
+    <string name="large_text" tools:keep="@string/large_text">
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="KY">
+    "The Healing Place, Louisville, KY \n
+        Men's Campus - 1020 W. Market Street Louisville, KY 40202
+        Contact - 502-585-4848 \n
+        Women's Campus - 1503 S. 15th Street Louisville, KY 40210
+        Contact - 502-568-6680" \n
+        \n
+        https://www.thehealingplace.org \n
+        https://www.thehealingplace.org/get-help-now \n\n\n
+        This is a great resource to find Board Certified Addiction Specialists in your area. \n
+        https://www.abam.net/find-a-doctor/
+    </string>
+    <string name="TN">
+        "This section of the app will be available in future versions"
+    </string>
+    <string name="title_activity_psychological_impact">Psychological Impact</string>
+
+    <string name="Psychological_Impact_For_App">
+        “Psychological and Social Sequelae of Cannabis and Other Illicit Drug Use by Young People, www.sciencedirect.com/science/article/pii/S0140673604162004.
+        \n\nThis study did a systematic review of a general population and it found that there was a, \'\'Fairly consistent associations were noted between cannabis use and both lower educational attainment and increased reported use of other illicit drugs.\'\'\
+        \n\n\n\n\n\n
+        \n\n
+
+    </string>
+    <string name="Statistics">
+    "According to the National Institute on Drug Abuse, \'\'The rate of overdose deaths involving opioid prescriptions rose steadily from 1.0 deaths per 100,000 persons in 1999 to 10.2 deaths per 100,000 persons in 2017.\'\'\
+    \n\n\n"According to a study conducted by Tetrault JM and Petrakis, IL, \'\'\Of the 23 million Americans suffering from addiction, only 11% receive treatment, creating a substantial treatment gap.\'\'\
+    \n\n\n\'\'\Fentanyl- and heroin-related overdose death rates increased across all age groups from years 2011 to 2015 with the highest rates consistently among 25-34-year-olds. The majority of the heroin and fentanyl overdose decedents had histories of substantial exposures to legally acquired prescription opioids. Law enforcement drug submission data were strongly correlated with drug overdose ED and mortality data. The 2016 crude rate of heroin-related overdose ED visits was 104/100,000, a 68% increase from 2015 (62/100,000). More fentanyl-related overdose deaths were reported between October, 2015, and September, 2016, than ED visits, in striking contrast with the observed ratio of >10 to 1 heroin-related overdose ED visits to deaths. Many fatal fentanyl overdoses were associated with heroin adulterated with fentanyl of the heroin overdose ED discharge records listed procedure codes for drug screening.\'\'\
+
+    </string>
+    <string name="title_activity_disclaimer">Disclaimer</string>
+
+    <string name="Disclaimer">
+        "This app was developed and released by Raakin Shah. This app was not designed to be in place of either a doctor or treatment program. The purpose of the app is to compile the information provided on the internet and show it in one app for ease of reading and use.
+    </string>
+
+
+    <string name="Disclaimer2">
+        \n\nThank you for using this app and for using it\'\s resources properly!"
+    </string>
+    <string name="title_activity_sources">Sources</string>
+
+    <string name="Sources">
+    \n\n"DeMio, Terry. “Addiction Kept a Grip on Kentucky Last Year; 3 in 10 Polled Says They Knew a Drug User.” Cincinnati.com, Cincinnati Enquirer, 6 Feb. 2019, www.cincinnati.com/story/news/2019/02/06/addiction-kept-grip-kentucky-last-year-3-10-knowing-drug-user-kentucky-health-issues-poll/2787329002/
+
+    \n\nGladden, R Matthew, et al. “Fentanyl Law Enforcement Submissions and Increases in Synthetic Opioid-Involved Overdose Deaths - 27 States, 2013-2014.” MMWR. Morbidity and Mortality Weekly Report, U.S. National Library of Medicine, 26 Aug. 2016, www.ncbi.nlm.nih.gov/pubmed/27560775.
+
+    \n\nNational Institute on Drug Abuse. “Kentucky Opioid Summary.” NIDA, 30 Mar. 2019, www.drugabuse.gov/opioid-summaries-by-state/kentucky-opioid-summary.
+    \n\nOpioid, Methamphetamine Use and Prescription Drug Misuse in Kentucky. Foundation for a Healthy Kentucky, 6 Feb. 2019, www.healthy-ky.org/res/images/resources/KHIP-substance-use-FINAL.pdf.
+
+    \n\n“Psychological and Social Sequelae of Cannabis and Other Illicit Drug Use by Young People: a Systematic Review of Longitudinal, General Population Studies.” The Lancet, Elsevier, 14 May 2004, www.sciencedirect.com/science/article/pii/S0140673604162004.
+
+    \n\nSchulte, Marya, et al. “A Smartphone Application Supporting Recovery from Heroin Addiction: Perspectives of Patients and Providers in China, Taiwan, and the USA.” Journal of Neuroimmune Pharmacology : the Official Journal of the Society on NeuroImmune Pharmacology, U.S. National Library of Medicine, Sept. 2016, www.ncbi.nlm.nih.gov/pubmed/26846506.
+
+    \n\nNational Library of Medicine, Sept. 2016, www.ncbi.nlm.nih.gov/pubmed/26846506.
+    \n\nSlavova, Svetla, et al. “Heroin and Fentanyl Overdoses in Kentucky: Epidemiology and Surveillance.” The International Journal on Drug Policy, U.S. National Library of Medicine, Aug. 2017, www.ncbi.nlm.nih.gov/pubmed/28735777.
+
+    Tetrault, Jeanette M, and Ismene L Petrakis. “Partnering with Psychiatry to Close the Education Gap: An Approach to the Addiction Epidemic.” Journal of General Internal Medicine, Springer US, Dec. 2017, www.ncbi.nlm.nih.gov/pubmed/28766126.
+    </string>
+    <string name="psychological_impact">Psychological Impact</string>
+    <string name="sources">Sources</string>
+    <string name="title_activity_temp">temp</string>
+</resources>

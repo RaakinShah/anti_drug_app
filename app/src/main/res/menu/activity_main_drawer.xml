@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_rehab_centers"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Rehab Centers"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/nav_impacts"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Psychological Impact"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/nav_statistics"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Statistics"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id = "@+id/nav_sources"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Sources"
+            tools:ignore="HardcodedText" />
+    </group>
+
+    <item
+        android:title="Extra"
+        tools:ignore="HardcodedText">
+        <menu>
+            <item
+                android:id="@+id/nav_disclaimer"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_send" />
+        </menu>
+    </item>
+
+</menu>
