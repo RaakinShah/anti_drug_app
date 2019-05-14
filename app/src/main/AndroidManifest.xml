@@ -13,12 +13,8 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
-            android:name=".temp"
-            android:label="@string/title_activity_temp"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity
             android:name=".Statistics"
-            android:label="statistics"
+            android:label="Statistics"
             android:parentActivityName=".MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
@@ -46,7 +42,12 @@
         <activity
             android:name=".PsychologicalImpactActivity"
             android:label="@string/title_activity_psychological_impact"
-            android:theme="@style/AppTheme.NoActionBar" />
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.anti_drugapplication.MainActivity" />
+        </activity>
         <activity
             android:name=".RehabCentersActivity"
             android:label="@string/title_activity_rehab_centers"

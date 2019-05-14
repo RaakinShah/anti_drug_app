@@ -28,15 +28,6 @@
                 app:layout_collapseMode="pin"
                 app:popupTheme="@style/AppTheme.PopupOverlay" />
 
-            <TextView
-                android:layout_width="207dp"
-                android:layout_height="98dp"
-                android:text="Rehab Centers"
-                android:textAppearance="@style/TextAppearance.AppCompat.Large"
-                android:textSize="40sp"
-                android:textColor="#ffffff"
-                tools:ignore="HardcodedText" />
-
         </android.support.design.widget.CollapsingToolbarLayout>
     </android.support.design.widget.AppBarLayout>
 

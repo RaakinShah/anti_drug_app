@@ -9,13 +9,16 @@
     tools:showIn="@layout/activity_psychological_impact">
 
     <TextView
+        android:id="@+id/Psychological_Impact_For_App"
+        android:autoLink="web"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="fill"
         android:layout_margin="@dimen/text_margin"
         android:text="@string/Psychological_Impact_For_App"
         android:textSize="18sp"
-        android:textColor="#000000"
-        />
+        android:textColor="#000000"/>
+
+
 
 </android.support.v4.widget.NestedScrollView>

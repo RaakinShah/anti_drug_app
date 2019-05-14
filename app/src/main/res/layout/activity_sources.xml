@@ -28,15 +28,6 @@
                 app:layout_collapseMode="pin"
                 app:popupTheme="@style/AppTheme.PopupOverlay" />
 
-            <TextView
-                android:id ="@+id/Sources"
-                android:layout_width="218dp"
-                android:layout_height="match_parent"
-                android:text="Statistics"
-                android:textColor="#ffffff"
-                android:textSize="40sp"
-                tools:ignore="HardcodedText" />
-
         </android.support.design.widget.CollapsingToolbarLayout>
     </android.support.design.widget.AppBarLayout>
 

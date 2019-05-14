@@ -28,7 +28,6 @@ public class Statistics extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_statistics);
-        text = (TextView) findViewById(R.id.Statistics);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         /*Spinner stateSpinner = findViewById(R.id.spinner);

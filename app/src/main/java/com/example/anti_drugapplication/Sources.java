@@ -17,7 +17,6 @@ public class Sources extends AppCompatActivity {
         setContentView(R.layout.activity_sources);
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        text = findViewById(R.id.Sources);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
     }
 }

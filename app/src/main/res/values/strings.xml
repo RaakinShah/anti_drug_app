@@ -20,16 +20,13 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="KY">
-    "The Healing Place, Louisville, KY \n
-        Men's Campus - 1020 W. Market Street Louisville, KY 40202
-        Contact - 502-585-4848 \n
-        Women's Campus - 1503 S. 15th Street Louisville, KY 40210
-        Contact - 502-568-6680" \n
+    "The Healing Place, Louisville, KY \n\nMen's Campus - \n1020 W. Market Street Louisville, KY 40202\nContact - 502-585-4848 \n\nWomen's Campus - \n1503 S. 15th Street Louisville, KY 40210\nContact - 502-568-6680" \n
         \n
         https://www.thehealingplace.org \n
-        https://www.thehealingplace.org/get-help-now \n\n\n
-        This is a great resource to find Board Certified Addiction Specialists in your area. \n
+        https://www.thehealingplace.org/get-help-now \n\n\nThis is a great resource to find Board Certified Addiction Specialists in your area. \n
         https://www.abam.net/find-a-doctor/
+        \n\nThis is also a great resource to find rehab centers near you in Kentucky\n
+        https://www.addictioncampuses.com/kentucky/
     </string>
     <string name="TN">
         "This section of the app will be available in future versions"
@@ -47,9 +44,14 @@
     "According to the National Institute on Drug Abuse, \'\'The rate of overdose deaths involving opioid prescriptions rose steadily from 1.0 deaths per 100,000 persons in 1999 to 10.2 deaths per 100,000 persons in 2017.\'\'\
     \n\n\n"According to a study conducted by Tetrault JM and Petrakis, IL, \'\'\Of the 23 million Americans suffering from addiction, only 11% receive treatment, creating a substantial treatment gap.\'\'\
     \n\n\n\'\'\Fentanyl- and heroin-related overdose death rates increased across all age groups from years 2011 to 2015 with the highest rates consistently among 25-34-year-olds. The majority of the heroin and fentanyl overdose decedents had histories of substantial exposures to legally acquired prescription opioids. Law enforcement drug submission data were strongly correlated with drug overdose ED and mortality data. The 2016 crude rate of heroin-related overdose ED visits was 104/100,000, a 68% increase from 2015 (62/100,000). More fentanyl-related overdose deaths were reported between October, 2015, and September, 2016, than ED visits, in striking contrast with the observed ratio of >10 to 1 heroin-related overdose ED visits to deaths. Many fatal fentanyl overdoses were associated with heroin adulterated with fentanyl of the heroin overdose ED discharge records listed procedure codes for drug screening.\'\'\
+    \n\n\nAccording to the Office of Drug Control Policy, \'\'\Over the past decade, the number of Kentuckians who die from drug overdoses has steadily climbed to more than 1,500 each year, exacting a devastating toll on families, communities, social services and economic stability and growth.\'\'\
+    \n\n\n
+
+
 
     </string>
     <string name="title_activity_disclaimer">Disclaimer</string>
+
 
     <string name="Disclaimer">
         "This app was developed and released by Raakin Shah. This app was not designed to be in place of either a doctor or treatment program. The purpose of the app is to compile the information provided on the internet and show it in one app for ease of reading and use.
@@ -75,8 +77,9 @@
 
     \n\nNational Library of Medicine, Sept. 2016, www.ncbi.nlm.nih.gov/pubmed/26846506.
     \n\nSlavova, Svetla, et al. “Heroin and Fentanyl Overdoses in Kentucky: Epidemiology and Surveillance.” The International Journal on Drug Policy, U.S. National Library of Medicine, Aug. 2017, www.ncbi.nlm.nih.gov/pubmed/28735777.
-
-    Tetrault, Jeanette M, and Ismene L Petrakis. “Partnering with Psychiatry to Close the Education Gap: An Approach to the Addiction Epidemic.” Journal of General Internal Medicine, Springer US, Dec. 2017, www.ncbi.nlm.nih.gov/pubmed/28766126.
+    \n\nTetrault, Jeanette M, and Ismene L Petrakis. “Partnering with Psychiatry to Close the Education Gap: An Approach to the Addiction Epidemic.” Journal of General Internal Medicine, Springer US, Dec. 2017, www.ncbi.nlm.nih.gov/pubmed/28766126.
+    \n\n“Overdose Fatality Report.” Overdose Fatality Report, odcp.ky.gov/Pages/Overdose-Fatality-Report.aspx
+    \n\n
     </string>
     <string name="psychological_impact">Psychological Impact</string>
     <string name="sources">Sources</string>

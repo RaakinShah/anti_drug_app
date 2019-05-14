@@ -28,14 +28,6 @@
                 app:layout_collapseMode="pin"
                 app:popupTheme="@style/AppTheme.PopupOverlay" />
 
-            <TextView
-                android:id="@+id/Psychological_Impact_For_App"
-                android:layout_width="242dp"
-                android:layout_height="match_parent"
-                android:text="@string/psychological_impact"
-                android:textColor="#ffffff"
-                android:textSize="38sp" />
-
         </android.support.design.widget.CollapsingToolbarLayout>
     </android.support.design.widget.AppBarLayout>
 
