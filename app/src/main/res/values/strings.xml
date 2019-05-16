@@ -33,13 +33,22 @@
     </string>
     <string name="title_activity_psychological_impact">Psychological Impact</string>
 
-    <string name="Psychological_Impact_For_App">
+    <string name="Psychological_Impact_For_App" tools:ignore="TypographyEllipsis"><![CDATA[
         “Psychological and Social Sequelae of Cannabis and Other Illicit Drug Use by Young People, www.sciencedirect.com/science/article/pii/S0140673604162004.
-        \n\nThis study did a systematic review of a general population and it found that there was a, \'\'Fairly consistent associations were noted between cannabis use and both lower educational attainment and increased reported use of other illicit drugs.\'\'\
-        \n\n\n\n\n\n
+        \n\nThis study did a systematic review of a general population and it found that there was a, \'\'\ Fairly consistent associations were noted between cannabis use and both lower educational attainment and increased reported use of other illicit drugs.\'\'\
         \n\n
+        \n\nAccording to the DrugAbuse.com, taking drugs can lead to you...\n\n
+    Lie to friends/family members.\n
+    Becoming more secretive and/or suspicious.\n
+    Changing friend groups.\n
+    Getting into legal trouble.\n
+    Going into debt/spending money exorbitantly.\n
+    Paranoia\n
+    Depression\n
+    And Anxiety\n\n\n
+According to the United States Governments National Drug Abuse website they say, \'\'\Sometimes, drug abuse can actually increase a user's risk of developing a mental disorder. For example, there is evidence that smoking marijuana during adolescence can increase a person's risk of psychosis during adulthood.\'\'\
 
-    </string>
+    ]]></string>
     <string name="Statistics">
     "According to the National Institute on Drug Abuse, \'\'The rate of overdose deaths involving opioid prescriptions rose steadily from 1.0 deaths per 100,000 persons in 1999 to 10.2 deaths per 100,000 persons in 2017.\'\'\
     \n\n\n"According to a study conducted by Tetrault JM and Petrakis, IL, \'\'\Of the 23 million Americans suffering from addiction, only 11% receive treatment, creating a substantial treatment gap.\'\'\
