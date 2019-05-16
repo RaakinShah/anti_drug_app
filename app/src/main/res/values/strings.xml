@@ -20,7 +20,7 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="KY">
-    "The Healing Place, Louisville, KY \n\nMen's Campus - \n1020 W. Market Street Louisville, KY 40202\nContact - 502-585-4848 \n\nWomen's Campus - \n1503 S. 15th Street Louisville, KY 40210\nContact - 502-568-6680" \n
+    "The Healing Place, Louisville, KY \n\nMen\'s Campus - \n1020 W. Market Street Louisville, KY 40202\nContact - 502-585-4848 \n\nWomen's Campus - \n1503 S. 15th Street Louisville, KY 40210\nContact - 502-568-6680" \n
         \n
         https://www.thehealingplace.org \n
         https://www.thehealingplace.org/get-help-now \n\n\nThis is a great resource to find Board Certified Addiction Specialists in your area. \n
@@ -36,7 +36,6 @@
     <string name="Psychological_Impact_For_App" tools:ignore="TypographyEllipsis"><![CDATA[
         “Psychological and Social Sequelae of Cannabis and Other Illicit Drug Use by Young People, www.sciencedirect.com/science/article/pii/S0140673604162004.
         \n\nThis study did a systematic review of a general population and it found that there was a, \'\'\ Fairly consistent associations were noted between cannabis use and both lower educational attainment and increased reported use of other illicit drugs.\'\'\
-        \n\n
         \n\nAccording to the DrugAbuse.com, taking drugs can lead to you...\n\n
     Lie to friends/family members.\n
     Becoming more secretive and/or suspicious.\n
