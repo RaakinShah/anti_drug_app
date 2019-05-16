@@ -13,13 +13,17 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
         <activity
+            android:name=".Helpful_Numbers"
+            android:label="@string/title_activity_helpful__numbers"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
             android:name=".Statistics"
             android:label="Statistics"
             android:parentActivityName=".MainActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.example.anti_drugapplication.MainActivity"/>
+                android:value="com.example.anti_drugapplication.MainActivity" />
         </activity>
         <activity
             android:name=".Sources"
